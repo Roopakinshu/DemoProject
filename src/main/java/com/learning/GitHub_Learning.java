@@ -6,12 +6,10 @@ public class GitHub_Learning {
 		// TODO Auto-generated method stub
 		System.out.println("Welocme to git");
 
-
 		int d = 40;
 		int e = 90;
 		System.out.println(d + e);
 
-    
 		int a, b;
 		a = 9;
 		b = 10;
@@ -19,12 +17,13 @@ public class GitHub_Learning {
 
 		System.out.println(sum);
 
-
-System.out.println("commit from branch2");
-System.out.println("resolve conflicts manually");
+		System.out.println("commit from branch2");
+		System.out.println("resolve conflicts manually");
 
 		System.out.println("Leraning resolving cnflicts from eclipse");
-
+		
+		System.out.println("Third way of resolving conflicts");
+		System.out.println("completed");
 
 	}
 
