@@ -19,6 +19,7 @@ public class GitHub_Learning {
 
 		System.out.println(sum);
 
+		System.out.println("Leraning resolving cnflicts from eclipse");
 
 	}
 
