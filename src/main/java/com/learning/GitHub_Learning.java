@@ -23,6 +23,8 @@ public class GitHub_Learning {
 		
 		System.out.println("Trying to push code form brach1 to learn clearing conflicts");
 		System.out.println("completed");
+		
+		System.out.println("2");
 
 	}
 
