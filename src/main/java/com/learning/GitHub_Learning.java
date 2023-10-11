@@ -19,7 +19,8 @@ public class GitHub_Learning {
 
 		System.out.println(sum);
 
-
+System.out.println("commit from branch2");
+System.out.println("resolve conflicts manually");
 	}
 
 }
